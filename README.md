@@ -1,29 +1,5 @@
-# [BDSelf v3.0](https://telegram.me/BeyondTeam)
 
-Professional Self-Bot Based On NEW TG-CLI
-
-
-* * *
-
-## Commands
-
-| Command | Description |
-|--------|------------|
-| [#!/]help | just send help in your group and get the commands |
-
-**You can use "#", "!", or "/" to begin all commands
-
-* * *
-
-# Installation
-
-```sh
-# Let's install the self-bot.
-cd $HOME
-git clone https://github.com/BeyondTeam/BDSelf.git
-cd BDSelf
-chmod +x beyond.sh
-./beyond.sh install
+d.sh install
 ./beyond.sh # Enter a phone number & confirmation code.
 ```
 ### One command
